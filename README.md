@@ -51,4 +51,3 @@ This command will join all files in the `input_folder` directory into a single f
 
 This utility was created by [Bazzirovan](https://github.com/Bazzirovan/). Feel free to contact me with any questions or feedback!
 
-```
